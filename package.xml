@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>yoctolib_ros</name>
+  <version>1.0.0</version>
+  <description>ROS package for Yoctopuce library</description>
+
+  <maintainer email="fjperezgrau@gmail.com">Francisco J. Perez Grau</maintainer>
+  <license>BSD</license>
+  <author email="fjperezgrau@gmail.com">Francisco J. Perez Grau</author> 
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+
+  <export>
+  </export>
+</package>
