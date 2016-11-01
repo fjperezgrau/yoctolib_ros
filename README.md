@@ -1,4 +1,4 @@
-# yoctoservo_ros [![Build Status](https://travis-ci.org/fjperezgrau/yoctolib_ros.svg?branch=master)](https://travis-ci.org/fjperezgrau/yoctolib_ros)
+# yoctolib_ros [![Build Status](https://travis-ci.org/fjperezgrau/yoctolib_ros.svg?branch=master)](https://travis-ci.org/fjperezgrau/yoctolib_ros)
 ROS package for interfacing with Yoctopuce C++ library: http://www.yoctopuce.com/EN/libraries.php
 
 It includes an example executable for using the Yocto-Servo device. Refer to the user's guide for more info: 
